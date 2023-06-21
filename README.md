@@ -1,6 +1,6 @@
 [![Build](https://github.com/Belosnegova/Programming-in-Kotlin-homework-3/actions/workflows/Build.yml/badge.svg)](https://github.com/Belosnegova/Programming-in-Kotlin-homework-3/actions/workflows/Build.yml)
 
-# Gradle broken build homework
+# Task 3. Gradle broken build homework
 
 In this task you need to fix this project:
 1) Oh no, error `Configuration with name 'implementation' not found.` is thrown for all `build.gradle.kts` files.
